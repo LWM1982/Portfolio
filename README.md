@@ -1,13 +1,13 @@
 # Portfolio
 Levon McGregor Data Analytics Portfolio
 
-Education 
+### Education 
 
-Skills 
+### Skills 
 
-Work Experience 
+### Work Experience 
 - 1
 - 2
 - 3
 
-Interests
+### Interests
