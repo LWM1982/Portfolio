@@ -1,7 +1,8 @@
 # Portfolio
 Levon McGregor Data Analytics Portfolio
 
-[Levon McGregor LinkedIn](www.linkedin.com/in/levonmcgregor)
+[Levon McGregor's LinkedIn](www.linkedin.com/in/levonmcgregor)
+
 Twitter:
 
 
